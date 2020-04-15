@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="jumbotron">
+    <h1 class="display-4">방명록에 오신 것을 환영합니다.</h1>
+    <p class="lead">프론트엔드: Bootstrap4<br>백엔드: Flask(Python)</p>
+    <hr class="my-4">
+    <p>방명록으로 이동하셔서 글을 작성해보시기 바랍니다.</p>
+    <a class="btn btn-primary btn-lg" href="{{url_for('posts')}}" role="button">방명록 바로가기</a>
+</div>
+{% endblock %}
