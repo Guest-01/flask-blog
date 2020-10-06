@@ -1,4 +1,13 @@
 # flask-blog
-implement blog posts CRUD using sqlalchemy   
-파이썬의 flask 프레임워크를 이용하여 만든 블로그 웹페이지   
-![인덱스](https://github.com/Guest-01/flask-blog/blob/master/frontpage.PNG?raw=true)
+>파이썬 Flask 프레임워크를 이용한 방명록 웹사이트
+
+AWS EC2로 호스팅 중... 바로가기↓↓↓<br>
+http://ec2-python.for-dev.xyz
+### Made with...
+Backend Framework: Flask   
+Database: Sqlite3   
+ORM: Sqlalchemy   
+Frontend: Jinja2 + Bootstrap4
+### Screenshots
+![index](https://user-images.githubusercontent.com/49602144/95218968-cbc36f00-082f-11eb-827a-0178d6c43524.PNG)
+![postpage](https://user-images.githubusercontent.com/49602144/95218975-ce25c900-082f-11eb-8ba2-22846fff29ff.PNG)
