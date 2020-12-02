@@ -1,7 +1,7 @@
 # flask-blog
 >파이썬 Flask 프레임워크를 이용한 방명록 웹사이트
 
-http://ec2-python.for-dev.xyz
+http://ec2-flask.for-dev.xyz
 ## Made with...
 Backend Framework: **Flask**   
 Database: **Sqlite3**   
